@@ -12,7 +12,10 @@ I'm an aspiring data scientist passionate about leveraging data to drive busines
   
 - 💬 Ask me about my journey into data science and what I’m currently learning. As a mother and a former social media manager, I bring creativity and analytical skills into my work. I'm also deeply passionate about aviation, and I’m currently diving into data science to broaden my technical expertise and drive business growth.
 
-- 📫 How to reach me: Instagram [@franziska_hall](https://www.instagram.com/franziska_hall) or email at franziska.marketing@gmail.com.
+- 📫 How to reach me:
+  📫 Email: tpilotmarketer@gmail.com  
+  🔗 LinkedIn: linkedin.com/in/francescafhall
+
 
 - 👩‍💻 Primary Tech Skills:
   - Python (beginner)
